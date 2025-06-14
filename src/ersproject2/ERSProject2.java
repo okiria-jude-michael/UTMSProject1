@@ -6,7 +6,7 @@ package ersproject2;
 
 /**
  *
- * @author Eng.MIKE
+ * @okiria jude michael
  */
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
